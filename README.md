@@ -1,3 +1,2 @@
 # CRUD-BY-zidanYB
-
-hehe anu itu
+Tugas saya membuat desain sistem CRUD
